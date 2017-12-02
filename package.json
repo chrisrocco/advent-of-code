@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "My solutions for the 25-day 'advent of code' challenge",
+  "main": "index.js",
+  "scripts": {
+    "build": "coffee --compile --transpile src/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "coffeescript": "^2.0.3"
+  }
+}
